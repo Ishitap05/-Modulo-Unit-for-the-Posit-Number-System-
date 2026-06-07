@@ -1,1 +1,1 @@
-# -Modulo-Unit-for-the-Posit-Number-System-
+# Modulo-Unit-for-the-Posit-Number-System-
